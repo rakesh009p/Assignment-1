@@ -109,7 +109,8 @@ html{
 
 }
 .container_12 .grid_4{
-background-color: darkcyan;
+background-color: gray;
+color:white;
 
 }
 .container_12 .grid_4 .ig {
@@ -117,6 +118,9 @@ background-color: darkcyan;
     border:2px solid black;
     margin:4px;
     background-color: none;
+}
+.grid_4 img{
+    width:100%;
 }
 .grid_6 img{
     width:100%;
